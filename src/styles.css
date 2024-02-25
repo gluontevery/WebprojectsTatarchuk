@@ -1,0 +1,18 @@
+.size {
+  max-width: 75% !important;
+}
+.bordern {
+  border: none !important;
+}
+
+.shadowred {
+  box-shadow: 5px 5px 5px red !important;
+}
+
+.size-equal {
+  max-height: 200px;
+  width: auto;
+}
+.contact-header {
+  margin-top: 40px;
+}
